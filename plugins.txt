@@ -1,0 +1,6 @@
+https://github.com/romgrk/barbar.nvim   --tabs
+https://github.com/nvim-treesitter/nvim-treesitter --hightlight
+https://github.com/kyazdani42/nvim-web-devicons --icons
+https://github.com/nvim-telescope/telescope.nvim --search
+https://github.com/kyazdani42/nvim-tree.lua -- folder structure
+https://github.com/hrsh7th/nvim-cmp/  --Complete
